@@ -16,3 +16,6 @@ test::~test() {
 	// TODO Auto-generated destructor stub
 }
 
+int main(){
+	return 0;
+}
